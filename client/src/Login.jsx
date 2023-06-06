@@ -27,7 +27,9 @@ const Login = () => {
     );
 
     const data = await response.json();
-    localStorage.setItem("token", data.token);
+    if (data.token) {
+      localStorage.setItem("token", data.token);
+    }
     window.location.reload();
   };
 
