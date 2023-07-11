@@ -9,3 +9,4 @@
 - Part 5 - [Automate MERN App Deployment with GitHub Actions CI/CD](https://blog.itsrakesh.co/automate-mern-app-deployment-with-github-actions-cicd)
 - Part 6 - [Deploying a MERN App to AWS Elastic Beanstalk with CI/CD](https://blog.itsrakesh.co/deploying-a-mern-app-to-aws-elastic-beanstalk-with-cicd)
 
+Testing jenkins integration
